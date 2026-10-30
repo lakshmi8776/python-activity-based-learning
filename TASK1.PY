@@ -1,4 +1,3 @@
-
 n = int(input("Enter number of students: "))
 students = []
 
